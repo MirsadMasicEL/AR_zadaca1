@@ -1,3 +1,4 @@
+//Mirsad Masic, Zadatak 6 
 .section .text
 .globl swap
 swap:
