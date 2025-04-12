@@ -1,4 +1,4 @@
-//Mirsad Masic, Zadatak 6
+//Mirsad Masic, Zadatak 7
 .section .data
 .globl arr1
 .align 1

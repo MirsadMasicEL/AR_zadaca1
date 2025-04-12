@@ -1,4 +1,4 @@
-//Mirsad Masic, Zadatak 6
+//Mirsad Masic, Zadatak 7
 #include <stdio.h>
 
 extern void swap(int*, int*, int);
