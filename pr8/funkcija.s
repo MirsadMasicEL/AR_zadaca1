@@ -1,3 +1,4 @@
+#nije uradjen ispis
 .section .text
   .global toBinary
 toBinary:
